@@ -1,0 +1,11 @@
+C:\Users\Acer\Documents\Ярослав\Завдання_XML\Зав2\bin\Debug\Зав2.exe.config
+C:\Users\Acer\Documents\Ярослав\Завдання_XML\Зав2\bin\Debug\Зав2.exe
+C:\Users\Acer\Documents\Ярослав\Завдання_XML\Зав2\bin\Debug\Зав2.pdb
+C:\Users\Acer\Documents\Ярослав\Завдання_XML\Зав2\obj\Debug\Зав2.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\Ярослав\Завдання_XML\Зав2\obj\Debug\Зав2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Documents\Ярослав\Завдання_XML\Зав2\obj\Debug\Зав2.Form1.resources
+C:\Users\Acer\Documents\Ярослав\Завдання_XML\Зав2\obj\Debug\Зав2.Properties.Resources.resources
+C:\Users\Acer\Documents\Ярослав\Завдання_XML\Зав2\obj\Debug\Зав2.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Ярослав\Завдання_XML\Зав2\obj\Debug\Зав2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Ярослав\Завдання_XML\Зав2\obj\Debug\Зав2.exe
+C:\Users\Acer\Documents\Ярослав\Завдання_XML\Зав2\obj\Debug\Зав2.pdb
